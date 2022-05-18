@@ -1,0 +1,26 @@
+body {
+    background-color: GhostWhite;
+}
+
+.car-img {
+    height: auto;
+}
+
+.centered {
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+footer {
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.white {
+    color: white;
+    font-size: 20px;
+}
+
